@@ -1,6 +1,5 @@
 # test
-
-一个自定义uni-app模板
+一个自定义uni-app demo
 
 #### 技术栈
 * vuex
@@ -27,7 +26,5 @@ npm run build
 ### uni-app
 > See [Configuration Reference](https://uniapp.dcloud.io/).
 
-### 组件库
+### uView
 > See [uView](https://uviewui.com/components/intro.html).
-
-### 
